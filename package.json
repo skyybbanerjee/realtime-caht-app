@@ -1,0 +1,16 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Sockets, Web-sockets, real-time data sharing in Nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Soumadip Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
